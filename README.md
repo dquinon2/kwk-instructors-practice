@@ -6,14 +6,14 @@ This is a repo where we can practice things like Markdown and making Pull Reques
 
 Find the line with your name and submit a Pull Request changing the line with your name:
 
-Consider the important question "The *best* pizza is..."
+Consider the important question "The *best* pizza is ..."
 
 * Chen says "(fill me in)"
 * Sara Beth says "(fill me in)"
 * Shannon says "(fill me in)"
 * Ashley says "(fill me in)"
 * Hunter says "(fill me in)"
-* Dayarelis says "(fill me in)"
+* Dayarelis says "(pepperoni)"
 * Michelle says "(fill me in)"
 * Ashanti says "(fill me in)"
 * Sarah R says "(fill me in)"
@@ -35,4 +35,3 @@ Consider the important question "The *best* pizza is..."
 * Bria says "(fill me in)"
 * Abby says "(fill me in)"
 * Liz says "(fill me in)"
-* Ellen Mary says "Atomic Cowboy: Pineapple and feta"
